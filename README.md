@@ -24,10 +24,6 @@ Then install the dependencies using:
 
     npm install
 
-Then run the React Native server using:
-
-    react-native start
-
 Open your emulator and wait until it completely boot up. Then run the following command to run the app on the emulator.
 
     react-native run-android
