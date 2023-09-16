@@ -18,7 +18,7 @@ To create an own copy of this application, you have some prerequisites. They are
 ### Make own copy
 First clone the repository using:
 
-    git clone https://github.com/robin3317/react-native-music-album.git
+    git clone https://github.com/awesomedev08/Music-Album-RN.git
 
 Then install the dependencies using:
 
@@ -33,4 +33,4 @@ Now, you have your own copy of this application!
  - [React](https://facebook.github.io/react/)
  - [React Native](https://facebook.github.io/react-native/)
 
-Made with ♥ by [Abdur Rahman Robin](https://twitter.com/robin4java)
+
